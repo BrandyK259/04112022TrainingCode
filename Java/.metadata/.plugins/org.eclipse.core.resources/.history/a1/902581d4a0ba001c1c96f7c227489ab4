@@ -1,0 +1,21 @@
+package com.revature.app;
+
+public class Driver {
+	public static void main(String[] args) {
+		int i = 16;
+
+		functionThatThrowsException(i);
+	}
+	
+	public static void functionThatThrowsException(int i) {
+		if (i > 15) {
+			try {
+				throw new TooHighNumberException(i);
+			} catch (TooHighNumberException c) {
+				System.out.println(c);
+			}
+				
+		}
+	}
+}
+

@@ -1,0 +1,11 @@
+package com.revature.app;
+
+//#1
+public class InevitableException extends Exception{
+
+	//#2
+	public InevitableException(int i) {
+		super("The number " + i + " is wrong!");
+
+	}
+}

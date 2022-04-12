@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.revature.ex.Assignment&apos; to &apos;AssignmentException&apos;&#x0D;&#x0A;- Original project: &apos;ExceptionExample&apos;&#x0D;&#x0A;- Original element: &apos;com.revature.ex.Assignment&apos;&#x0D;&#x0A;- Renamed element: &apos;com.revature.ex.AssignmentException&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Assignment&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.revature.ex{Assignment.java[Assignment" matchStrategy="1" name="AssignmentException" qualified="false" references="true" similarDeclarations="false" stamp="1649794288345" textual="false" version="1.0"/>
+</session>
