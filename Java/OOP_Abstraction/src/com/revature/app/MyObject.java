@@ -1,6 +1,6 @@
 package com.revature.app;
 /*
- * When a class implements an interface, it promises to implement - that is, write a bay for - 
+ * When a class implements an interface, it promises to implement - that is, write a body for - 
  * every abstract method in the implemented interface
  * 
  * When a class extends an abstract class, it promises also to implement and abstract methods,

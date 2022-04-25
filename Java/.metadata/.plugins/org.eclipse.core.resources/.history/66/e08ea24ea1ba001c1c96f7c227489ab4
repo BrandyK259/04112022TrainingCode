@@ -1,9 +1,0 @@
-package com.revature.app;
-
-public class TooHighNumberException extends Exception{
-
-	public TooHighNumberException(int i) {
-		super("The number " + i + " is too high!");
-
-	}
-}
